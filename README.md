@@ -46,3 +46,11 @@
   
   ![Snake animation](https://github.com/renyzeraa/renyzeraa/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+###
+<img href="https://raw.githubusercontent.com/renyzeraa/renyzeraa/blob/output/snake.svg" alt="Snake animation" />
+
+###
+<img align="left" src="https://profile-counter.glitch.me/renyzeraa/count.svg?"  />
+
+###
