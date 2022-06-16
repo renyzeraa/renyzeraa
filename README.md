@@ -48,9 +48,6 @@
 </div>
 
 ###
-<img href="https://raw.githubusercontent.com/renyzeraa/renyzeraa/blob/output/snake.svg" alt="Snake animation" />
-
-###
 <img align="left" src="https://profile-counter.glitch.me/renyzeraa/count.svg?"  />
 
 ###
