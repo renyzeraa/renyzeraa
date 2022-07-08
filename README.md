@@ -26,11 +26,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
 
-###
+<div display="flex">
 
 ![](https://github-readme-stats.vercel.app/api?username=renyzeraa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=renyzeraa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=renyzeraa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 ###
 
