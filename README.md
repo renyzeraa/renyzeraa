@@ -14,13 +14,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+</div>
 
 <hr>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
   
 ![](https://github-readme-stats.vercel.app/api?username=renyzeraa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=renyzeraa&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=renyzeraa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+  </div>
 </div>
 
 ###
