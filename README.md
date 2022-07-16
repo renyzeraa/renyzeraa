@@ -6,7 +6,7 @@ It's great to meet you, my name is Renan 👋😄
 - [x] Computer Science student 👨‍🎓
 - [x] Focused on FullStack development 👨‍💻 
 - [x] Evolving in Node.js, React.js , API's and more... 🧠
-- [x] Looking for the first jog as a developer 🤞
+- [x] Looking for the first job as a developer 🤞
 
 ## 💻 Tech Stack:
 <span>
