@@ -9,8 +9,8 @@ It's great to meet you, my name is Renan 🤙
 - [x] Looking for the first job as a developer 🤞
 
 ```
-Passionate about technology, I don't see myself doing, anything other than working with development.
-Evolving, constantly as a human being and looking to be the best at what I do.
+                 " Passionate about technology, I don't see myself doing, anything other than working with development.
+                            Evolving, constantly as a human being and looking to be the best at what I do. "
 ```
 
 ### 💻 Tech Stack:
