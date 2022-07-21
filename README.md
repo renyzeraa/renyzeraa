@@ -4,7 +4,7 @@ It's great to meet you, my name is Renan 🤙
 
 - [x] From Brazil 📍
 - [x] Computer Science student 👨‍🎓
-- [x] Focused on FullStack development 👨‍💻 
+- [x] Focused on Frontend development 👨‍💻 
 - [x] Evolving in React.js and more... 🧠
 - [x] Looking for the first job as a developer 🤞
 
