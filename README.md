@@ -2,9 +2,9 @@
 
 It's great to meet you, my name is Renan 🤙
 
-- [x] From Brazil 📍
+- [x] I'm from Santa Catarina - Brazil 📍
 - [x] Computer Science student 👨‍🎓
-- [x] Focused on Frontend development 👨‍💻 
+- [x] Focused on Frontend development 👨‍💻
 - [x] Evolving in React.js and more... 🧠
 - [x] Looking for the first job as a developer 🤞
 
@@ -14,6 +14,7 @@ It's great to meet you, my name is Renan 🤙
 ```
 
 ### 💻 Tech Stack:
+
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="html5 logo"  />
