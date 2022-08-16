@@ -1,8 +1,6 @@
-<div align="center">
+<div align="center"> 
 
-## Welcome 👋😄 
-
-![Dark Purple   Coral Gradient Content Creator LinkedIn Banner](https://user-images.githubusercontent.com/101990719/184777106-4baf2fd6-0f25-4abb-8dbd-ecb351921336.gif)
+![bannergit](https://user-images.githubusercontent.com/101990719/184782598-265eeb39-ce0e-49b2-b1c9-bf07205844bb.gif)
 
 ```
 " Looking for the first job as a developer. Passionate about technology, 
