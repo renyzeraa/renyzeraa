@@ -14,7 +14,7 @@
 <details>
 <summary>Languages Used 👇🏻</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renyzeraa&layout=compact&theme=dracula&show_icons=true&hide_border=true&count_private=true&hide=html,rich%20text%20format)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renyzeraa&layout=compact&theme=dracula&show_icons=true&hide_border=true&count_private=true&hide=rich%20text%20format)
 
 </details>
 <details>
