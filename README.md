@@ -14,7 +14,7 @@
 <details>
 <summary>Languages Used 👇🏻</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renyzeraa&layout=compact&theme=dracula&show_icons=true&hide_border=true&count_private=true&hide=rich%20text%20format)
+<img height="250px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=renyzeraa&layout=compact&theme=dracula&hide_border=true&hide_title=true"/>
 
 </details>
 <details>
@@ -22,3 +22,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=renyzeraa&count_private=true&theme=dracula&show_icons=true&hide_border=true&hide_title=true)
 </details>
+
