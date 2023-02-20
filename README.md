@@ -10,7 +10,12 @@
 <details>
 <summary>Languages Used 👇🏻</summary>
 
-<img height="250px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=renyzeraa&layout=compact&theme=dracula&hide_border=true&hide_title=true"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="width:120px"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:120px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="width:120px"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"style="width:120px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="width:120px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="width:120px"/>
 
 </details>
 <details>
