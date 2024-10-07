@@ -1,16 +1,7 @@
-<h1 align="left"><Hello World /></h1>
-
-###
-
+<h1 align="left">< Hello World /></h1>
 <p align="left">I have been a web developer for 4 years, that loves everything about coding. I currently work as a frontend developer at Magazord Digital Commerce.</p>
 
-###
-
-<br clear="both">
-
 <h2 align="center">I code with</h2>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="44" alt="javascript logo"  />
@@ -57,9 +48,3 @@
  </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="discord logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/renyzeraa/renyzeraa/output/snake.svg" alt="Snake animation" />
-
-###
