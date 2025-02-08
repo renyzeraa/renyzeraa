@@ -1,5 +1,5 @@
 <h1 align="left">< Hello World /></h1>
-<p align="left">I have been a web developer for 5 years, that loves everything about coding. I currently work as a frontend developer at Magazord Digital Commerce.</p>
+<p align="left">I have been a web developer for 3 years, that loves everything about coding. I currently work as a frontend developer at Magazord Digital Commerce.</p>
 
 <h2 align="center">I code with</h2>
 
