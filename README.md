@@ -201,9 +201,9 @@
 
 |  | Company | Duration | Role |
 |------|---------|----------|------|
-| <a href="https://www.magazord.com.br/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQEbBPxSVHPLYA/company-logo_200_200/company-logo_200_200/0/1706201592584/magazord_logo?e=1747872000&v=beta&t=eflMdFYkRqq6LKoAPMhdgFZ6rSPifiSqGpD5AA4cChs" width="80" height="80"></a> | **Magazord Digital Commerce** | May 2024 - Present | Mid Frontend Developer |
-| <a href="https://www.ipm.com.br/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQEo2yQ-tVa-Mw/company-logo_200_200/company-logo_200_200/0/1725049147290/ipmsistemas_logo?e=1747872000&v=beta&t=Inqwe2oKhDyiVlRxGOxEsDBKQHw42mr1j3sY2AfMEtk" width="80" height="80"></a> | **IPM Sistemas** | Sep 2022 - May 2024 | Jr Frontend Developer |
-| <a href="https://www.rocketseat.com.br/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQEFKEYZhCbjFA/company-logo_200_200/company-logo_200_200/0/1733019768288?e=1747872000&v=beta&t=HXmLjpTmqxN0cz1CTY2GCQoV7Huvb1Dza1mNWcxzjLU" width="80" height="80"></a> | **Rocketseat** | Feb 2022 - Sep 2022 | Student |
+| <a href="https://www.magazord.com.br/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQEbBPxSVHPLYA/company-logo_200_200/company-logo_200_200/0/1706201592584/magazord_logo?e=1753920000&v=beta&t=2XpFnEwSJeXrnB4ovWfaCxfE74y7LFByLnHZXhCVx40" width="80" height="80"></a> | **Magazord Digital Commerce** | May 2024 - Present | Mid Frontend Developer |
+| <a href="https://www.ipm.com.br/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQEo2yQ-tVa-Mw/company-logo_200_200/company-logo_200_200/0/1725049147290/ipmsistemas_logo?e=1753920000&v=beta&t=9VOXdcun4k6YjX6Ezw2rBVCIybP2dMp8RVu61u65uN8" width="80" height="80"></a> | **IPM Sistemas** | Sep 2022 - May 2024 | Jr Frontend Developer |
+| <a href="https://www.rocketseat.com.br/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQE0IUyZsQB5aw/company-logo_200_200/B4DZaHZ6Q6GwAI-/0/1746028439441/rocketseat_logo?e=1753920000&v=beta&t=gZ73vb025hCVFlJ0Cix5FGbyW-kI3KcBFOujutWZ-gM" width="80" height="80"></a> | **Rocketseat** | Feb 2022 - Sep 2022 | Student |
 
 🔗 [View full profile on LinkedIn](https://www.linkedin.com/in/renyzeraa)
 
