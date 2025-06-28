@@ -7,7 +7,7 @@
 - 👀 I’m open to collaborate on new projects;
 - 🧑🏻‍💼 I’m available for freelance work;
 - 📚 I'm graduating in System Analysis and Development at [Estácio](https://estacio.br);
-- 👨🏻‍💻 Learn more about my services on my website [website](https://renansilvadev.netlify.app);
+- 👨🏻‍💻 Learn more about my services on my [website](https://renansilvadev.netlify.app);
 
 ## 🎨 Frontend
 <table style="width:100%">
