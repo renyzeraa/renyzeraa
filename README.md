@@ -6,8 +6,8 @@
 - 🚀 I’m constantly improving my skills on React, Next.js and Node.js at [Rocketseat](https://app.rocketseat.com.br/me/rcrdk). (btw, I'm learning advanced React);
 - 👀 I’m open to collaborate on new projects;
 - 🧑🏻‍💼 I’m available for freelance work;
-- 📚 I'm graduating in System Analysis and Development at [Estácio](https://estacio.br/);
-<!-- - 📚 Learn more about my services on my website [website](https://renansilvadev.com); -->
+- 📚 I'm graduating in System Analysis and Development at [Estácio](https://estacio.br);
+- 👨🏻‍💻 Learn more about my services on my website [website](https://renansilvadev.netlify.app);
 
 ## 🎨 Frontend
 <table style="width:100%">
