@@ -55,13 +55,13 @@
 			<img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />&nbsp;
 		</td>
 	</tr>
-	<tr>
+<!-- 	<tr>
 		<th>Testing</th>
 		<td>
-			<!-- <img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />&nbsp; -->
+			<img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />&nbsp;
 			<img alt="Vitest" src="https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703" />&nbsp;
 		</td>
-	</tr>
+	</tr> -->
 	<!--<tr>
 		<th>Design</th>
 		<td>
@@ -118,8 +118,8 @@
 		<th>Tools</th>
 		<td>
 			<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;
-			<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />&nbsp;
-			<img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />&nbsp;
+<!-- 			<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />&nbsp;
+			<img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />&nbsp; -->
 			<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
 		</td>
 	</tr>
@@ -135,15 +135,15 @@
 			<img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />&nbsp;
 		</td>
 	</tr>-->
-	<tr>
+<!-- 	<tr>
 		<th>Version Control & Terminal</th>
 		<td>
 			<img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
 	      		<img alt="Powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />&nbsp;
-	      		<img alt="Windows Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />&nbsp;
 	      		<img alt="ZSH" src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white" />&nbsp;
+	      		<img alt="Windows Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />&nbsp;
 		</td>
-	</tr>
+	</tr> -->
 	<!--<tr>
 		<th>Linters & Formatters</th>
 		<td>
@@ -164,14 +164,14 @@
 			<img alt="Microsoft Edge" src="https://img.shields.io/badge/-Microsoft%20Edge-05122A?style=for-the-badge&logo=edge&logoColor=white" />&nbsp;
 		</td>
 	</tr>-->
-	<tr>
+<!-- 	<tr>
 		<th>Software Metrics and Analytics</th>
 		<td>
 			<img alt="Lighthouse" src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" />&nbsp;
-			<!--<img alt="Wakatime" src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />&nbsp; -->
+			<img alt="Wakatime" src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />&nbsp;
 	      		<img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />&nbsp;
 		</td>
-	</tr>
+	</tr> -->
 </table>
 
 ## 🪛 Other
@@ -184,7 +184,7 @@
 	      		<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;
 		</td>
 	</tr>
-	<tr>
+<!-- 	<tr>
 		<th>Social & Blogging</th>
 		<td>
 			<img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />&nbsp;
@@ -194,7 +194,7 @@
 			<img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />&nbsp;
 	      		<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />&nbsp;
 		</td>
-	</tr>
+	</tr> -->
 </table>
 
 ## 💼 Professional Experience  
