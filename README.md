@@ -124,18 +124,18 @@
 		</td>
 	</tr>
 </table>
-
+<!--
 ## ⚒️ Tools & Utilities
 <table style="width:100%">
-	<!--<tr>
+	<tr>
 		<th>AI & Automation</th>
 		<td>
 			<img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
 			<img alt="Github Copilot" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />&nbsp;
 			<img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />&nbsp;
 		</td>
-	</tr>-->
-<!-- 	<tr>
+	</tr>
+	<tr>
 		<th>Version Control & Terminal</th>
 		<td>
 			<img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
@@ -143,8 +143,8 @@
 	      		<img alt="ZSH" src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white" />&nbsp;
 	      		<img alt="Windows Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />&nbsp;
 		</td>
-	</tr> -->
-	<!--<tr>
+	</tr>
+	<tr>
 		<th>Linters & Formatters</th>
 		<td>
 			<img alt="Biome" src="https://img.shields.io/badge/biome-60a5fa?style=for-the-badge&logo=biome&logoColor=white" />&nbsp;
@@ -152,8 +152,8 @@
 	      		<img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />&nbsp;
 	      		<img alt="Zod" src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7" />&nbsp;
 		</td>
-	</tr>-->
-	<!--<tr>
+	</tr>
+	<tr>
 		<th>Browsers</th>
 		<td>
 			<img alt="Google Chrome" src="https://img.shields.io/badge/-Google%20Chrome-05122A?style=for-the-badge&logo=google-chrome&logoColor=white" />&nbsp;
@@ -163,16 +163,17 @@
 			<img alt="Opera" src="https://img.shields.io/badge/-Opera-05122A?style=for-the-badge&logo=opera&logoColor=white" />&nbsp;
 			<img alt="Microsoft Edge" src="https://img.shields.io/badge/-Microsoft%20Edge-05122A?style=for-the-badge&logo=edge&logoColor=white" />&nbsp;
 		</td>
-	</tr>-->
-<!-- 	<tr>
+	</tr>
+ 	<tr>
 		<th>Software Metrics and Analytics</th>
 		<td>
 			<img alt="Lighthouse" src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" />&nbsp;
 			<img alt="Wakatime" src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />&nbsp;
 	      		<img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />&nbsp;
 		</td>
-	</tr> -->
+	</tr> 
 </table>
+-->
 
 ## 🪛 Other
 <table style="width:100%">
