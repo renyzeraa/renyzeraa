@@ -207,7 +207,7 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | ------------------- | ---------------------- |
 | <a href="https://www.magazord.com.br/" target="_blank"><img src="https://yt3.googleusercontent.com/ucVqczdV90ptgfpDXwXK6iaYzGm15gzBUtGKipFE-19Dk5e1XizSMwIp7PKiLMlnLlo2zquG7OY=s900-c-k-c0x00ffffff-no-rj" width="80" height="80"></a> | **Magazord Digital Commerce** | May 2024 - Present  | Mid Frontend Developer |
 | <a href="https://www.ipm.com.br/" target="_blank"><img src="https://yt3.googleusercontent.com/r9hkvA-_1wYKo6uihQEk-ISGa5z8-5W0sxDzDap5U9SNZZ_Q-p0FwerpuIl9UNjH2ddZFnAHwQ=s900-c-k-c0x00ffffff-no-rj" width="80" height="80"></a>   | **IPM Sistemas**              | Sep 2022 - May 2024 | Jr Frontend Developer  |
-| <a href="https://www.rocketseat.com.br/" target="_blank"><img src="https://yt3.googleusercontent.com/m2DDh77RZbGfQrGpDKNIaFybLAy9jP8foYPXhlQMNxieFzEEckffauYRlWhFLL52j5TyTs8RcA=s900-c-k-c0x00ffffff-no-rj" width="80" height="80"></a>  | **Rocketseat**                | Feb 2022 - Sep 2022 | Student                |
+<!-- | <a href="https://www.rocketseat.com.br/" target="_blank"><img src="https://yt3.googleusercontent.com/m2DDh77RZbGfQrGpDKNIaFybLAy9jP8foYPXhlQMNxieFzEEckffauYRlWhFLL52j5TyTs8RcA=s900-c-k-c0x00ffffff-no-rj" width="80" height="80"></a>  | **Rocketseat**                | Feb 2022 - Sep 2022 | Student                |-->
 
 🔗 [View full profile on LinkedIn](https://www.linkedin.com/in/renyzeraa)
 
