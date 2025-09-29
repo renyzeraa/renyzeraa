@@ -80,7 +80,7 @@
 		<th>Languages</th>
 		<td>
 			<img alt="PHP" src="https://img.shields.io/badge/php-777BB3?style=for-the-badge&logo=php&logoColor=white" />&nbsp;
-			<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
+			<!-- <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp; -->
 			<img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;
 			<img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
 			<!-- <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />&nbsp; -->
@@ -90,9 +90,9 @@
 		<th>Frameworks & Libraries</th>
 		<td>
 			<img alt="Node.js" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
-			<img alt="Express JS" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
-			<img alt="Fastify" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" />&nbsp;
-	      		<img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />&nbsp;
+			<!-- <img alt="Express JS" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp; -->
+			<!-- <img alt="Fastify" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" />&nbsp; -->
+	      		<!-- <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />&nbsp; -->
 			<!--<img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />&nbsp;
 			<img alt="Drizzle" src="https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />&nbsp;
 	      		<img alt="TypeORM" src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />&nbsp;
@@ -116,15 +116,15 @@
 			<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;
 		</td>
 	</tr> -->
-	<tr>
+	<!-- <tr>
 		<th>Tools</th>
 		<td>
 			<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;
-<!-- 			<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />&nbsp;
-			<img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />&nbsp; -->
+ 			<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />&nbsp;
+			<img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />&nbsp;
 			<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
 		</td>
-	</tr>
+	</tr> -->
 </table>
 <!--
 ## ⚒️ Tools & Utilities
@@ -177,18 +177,18 @@
 </table>
 -->
 
-## 🪛 Other
+<!-- ## 🪛 Other -->
 
-<table style="width:100%">
+<!-- <table style="width:100%">
 	<tr>
 		<th>Project Management</th>
 		<td>
-			<!--<img alt="Google Docs" src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" />&nbsp; -->
+			<img alt="Google Docs" src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" />&nbsp;
 	      		<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;
 	      		<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;
 		</td>
 	</tr>
-<!-- 	<tr>
+	<tr>
 		<th>Social & Blogging</th>
 		<td>
 			<img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />&nbsp;
@@ -198,8 +198,8 @@
 			<img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />&nbsp;
 	      		<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />&nbsp;
 		</td>
-	</tr> -->
-</table>
+	</tr> 
+</table> -->
 
 ## 💼 Professional Experience
 
