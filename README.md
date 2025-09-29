@@ -1,9 +1,9 @@
 <h2 align="left">Hey, I'm Renan (you can call me renyzeraa) </h2>
 
-- 🔥 I’m a Fullstack Developer;
+- 🔥 I’m a Frontend Developer;
 - 💻 I’m currently working at [Magazord](https://www.magazord.com.br/);
 - 🎨 I’ve been working for over 4 years creating custom websites, landing pages, api's, e-commerces and web apps;
-- 🚀 I’m constantly improving my skills on React, Next.js and Node.js at [Rocketseat](https://app.rocketseat.com.br/me/rcrdk). (btw, I'm learning advanced React);
+- 🚀 I’m constantly improving my skills on React, Next.js and Node.js, btw, i'm learning advanced React;
 - 👀 I’m open to collaborate on new projects;
 - 🧑🏻‍💼 I’m available for freelance work;
 - 📚 I'm graduating in System Analysis and Development at [Estácio](https://estacio.br);
@@ -50,9 +50,9 @@
 	<tr>
 		<th>Build Tools</th>
 		<td>
-			<img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" />&nbsp;
+			<!-- <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" />&nbsp; -->
 			<img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />&nbsp;
-			<img alt="PostCSS" src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" />&nbsp;
+			<!-- <img alt="PostCSS" src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" />&nbsp; -->
 			<img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />&nbsp;
 		</td>
 	</tr>
