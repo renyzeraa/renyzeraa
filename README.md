@@ -3,7 +3,7 @@
 - 🔥 I’m a Frontend Developer;
 - 💻 I’m currently working at [Magazord](https://www.magazord.com.br/);
 - 🎨 I’ve been working for over 5 years creating custom websites, landing pages, api's, e-commerces and web apps;
-- 🚀 I’m constantly improving my skills on React, Next.js and Node.js, btw, i'm learning advanced React;
+- 🚀 I’m constantly improving my fundamentals developer skills;
 - 👀 I’m open to collaborate on new projects;
 - 🧑🏻‍💼 I’m available for freelance work;
 - 📚 I'm graduating in System Analysis and Development at [Estácio](https://estacio.br);
