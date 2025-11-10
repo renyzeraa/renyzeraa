@@ -1,7 +1,7 @@
 <h2 align="left">Hey, I'm Renan (you can call me renyzeraa) </h2>
 
 - 🔥 I’m a Frontend Developer;
-- 💻 I’m currently working at [Magazord](https://www.magazord.com.br/);
+- 💻 I’m currently working at [DB1 Group](https://db1group.com/);
 - 🎨 I’ve been working for over 5 years creating custom websites, landing pages, api's, e-commerces and web apps;
 - 🚀 I’m constantly improving my fundamentals developer skills;
 - 👀 I’m open to collaborate on new projects;
@@ -205,6 +205,7 @@
 
 |                                                                                                                                                                                                                                                                                                  | Company                       | Duration            | Role                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | ------------------- | ---------------------- |
+| <a href="https://db1group.com/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQHY83xkABQgRg/company-logo_200_200/B4DZXywVHmHAAM-/0/1743534512536/db1_group_logo?e=1764201600&v=beta&t=MCLG4MylpUAK1SBiV3eH58_7_kz6EWBcUi4z2LfURQk" width="80" height="80"></a> | **DB1 Group** | Nov 2025 - Present  | Mid Frontend Developer |
 | <a href="https://www.magazord.com.br/" target="_blank"><img src="https://yt3.googleusercontent.com/ucVqczdV90ptgfpDXwXK6iaYzGm15gzBUtGKipFE-19Dk5e1XizSMwIp7PKiLMlnLlo2zquG7OY=s900-c-k-c0x00ffffff-no-rj" width="80" height="80"></a> | **Magazord Digital Commerce** | Dec 2023 - Present  | Mid Frontend Developer |
 | <a href="https://www.ipm.com.br/" target="_blank"><img src="https://yt3.googleusercontent.com/r9hkvA-_1wYKo6uihQEk-ISGa5z8-5W0sxDzDap5U9SNZZ_Q-p0FwerpuIl9UNjH2ddZFnAHwQ=s900-c-k-c0x00ffffff-no-rj" width="80" height="80"></a>   | **IPM Sistemas**              | Aug 2021 - Dec 2023 | Jr Frontend Developer  |
 <!-- | <a href="https://www.rocketseat.com.br/" target="_blank"><img src="https://yt3.googleusercontent.com/m2DDh77RZbGfQrGpDKNIaFybLAy9jP8foYPXhlQMNxieFzEEckffauYRlWhFLL52j5TyTs8RcA=s900-c-k-c0x00ffffff-no-rj" width="80" height="80"></a>  | **Rocketseat**                | Feb 2022 - Sep 2022 | Student                |-->
