@@ -1,7 +1,6 @@
 <h2 align="left">Hey, I'm Renan (you can call me renyzeraa) </h2>
 
-- 🔥 I’m a Frontend Developer;
-- 🎨 I’ve been working for over 5 years creating custom websites, e-commerces, mobile app's, landing pages, api's;
+- 🔥 I’ve been working for over 5 years creating custom websites, e-commerces, mobile app's, landing pages, api's;
 - 📚 I'm graduating in System Analysis and Development at [Estácio](https://estacio.br);
 - 👨🏻‍💻 Learn more about my services on my [website](https://devrenansilva.netlify.app);
 
