@@ -4,6 +4,21 @@
 - 📚 I'm graduating in System Analysis and Development at [Estácio](https://estacio.br);
 - 👨🏻‍💻 Learn more about my services on my [website](https://devrenansilva.netlify.app);
 
+---
+
+<img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+<img alt="Next.js" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;
+<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;
+<img alt="Vitest" src="https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703" />&nbsp;
+<img alt="PHP" src="https://img.shields.io/badge/php-777BB3?style=for-the-badge&logo=php&logoColor=white" />&nbsp;
+<img alt="Node.js" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+
+---
+
+<!--
 ## 🎨 Frontend
 
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
@@ -21,19 +36,17 @@
 <img alt="Eslit" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />&nbsp;
 <img alt="Lighthouse" src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" />&nbsp;
 
-<!-- <table style="width:100%">
+<table style="width:100%">
 	<tr>
 		<th>Título</th>
 		<td>
 		</td>
 	</tr>
-</table> -->
+</table>
 
 ## 🗃️ Backend
 
 <img alt="PHP" src="https://img.shields.io/badge/php-777BB3?style=for-the-badge&logo=php&logoColor=white" />&nbsp;
-<img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;
-<img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
 <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />&nbsp;
 <img alt="Node.js" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
 <img alt="Express JS" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
@@ -46,13 +59,13 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
 
-<!-- <table style="width:100%">
+<table style="width:100%">
 	<tr>
 		<th>Título</th>
 		<td>
 		</td>
 	</tr>
-</table> -->
+</table>
 
 ## 🛠️ Tools
 
@@ -60,6 +73,8 @@
 <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
 <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
+
+-->
 
 ## 🤙🏻 Contact me
 
