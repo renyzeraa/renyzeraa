@@ -1,3 +1,5 @@
+<!-- GitHub bio (campo de 160 caracteres no perfil): Frontend Dev @ DB1 · TypeScript, React · AI-first, RAG & MCP in daily practice · From spec to production. -->
+
 <h2 align="left">Hey, I'm Renan Silva — renyzeraa 👋</h2>
 
 <p align="left">
@@ -13,7 +15,7 @@
 | | |
 |---|---|
 | 💼 **Role** | Frontend Developer @ DB1 Group |
-| 🎓 **Degree** | Systems Analysis & Development |
+| 🎓 **Degree** | Systems Analysis & Development — Estácio |
 | 🌍 **Location** | Brazil |
 | 🌐 **Portfolio** | [devrenansilva.netlify.app](https://devrenansilva.netlify.app) |
 
