@@ -1,38 +1,38 @@
-<h2 align="left">Olá, sou o Renan Silva — renyzeraa 👋</h2>
+<h2 align="left">Hi, I'm Renan Silva — renyzeraa 👋</h2>
 
 <p align="left">
-  Desenvolvedor frontend construindo produtos reais de ponta a ponta — do repositório vazio até a produção.<br/>
-  Me importo profundamente com qualidade de código, arquitetura limpa e entregar coisas que realmente funcionam em escala.<br/>
-  Atualmente atuo na interseção entre engenharia frontend e IA — aplicando pipelines de RAG, MCP e desenvolvimento orientado a especificação (spec-driven) em projetos reais.
+  Full Stack Developer building real products end-to-end — from an empty repo to production.<br/>
+  I deeply care about code quality, clean architecture, and shipping things that actually work at scale.<br/>
+  I currently work at the intersection of full stack engineering and AI — applying RAG pipelines, MCP, and spec-driven development to real projects.
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim
+### 🧑‍💻 About me
 
 | | |
 |---|---|
-| 💼 **Cargo** | Desenvolvedor Frontend @ DB1 Group |
-| 🎓 **Formação** | Análise e Desenvolvimento de Sistemas |
-| 🌍 **Localização** | Brasil |
-| 🌐 **Portfólio** | [devrenansilva.netlify.app](https://devrenansilva.netlify.app) |
+| 💼 **Role** | Full Stack Developer @ DB1 Group |
+| 🎓 **Education** | Systems Analysis and Development |
+| 🌍 **Location** | Brazil |
+| 🌐 **Portfolio** | [devrenansilva.netlify.app](https://devrenansilva.netlify.app) |
 
 ---
 
-### 🚀 O que eu trago para o time
+### 🚀 What I bring to the team
 
-**Domínio de ponta a ponta**
-Construí um dashboard em React/TypeScript do zero — do início até a produção. Decisões de arquitetura, pipeline de CI, quality gates com SonarQube e uma grande base de usuários ativos diários.
+**End-to-end ownership**
+I built a React/TypeScript dashboard from scratch — from day one through production. Architecture decisions, CI pipeline, quality gates with SonarQube, and a large base of daily active users.
 
-**Mentalidade de qualidade em primeiro lugar**
-Princípios SOLID, Clean Code, Design Patterns e testes automatizados com Vitest fazem parte de como eu entrego — não são deixados de lado.
+**Quality-first mindset**
+SOLID principles, Clean Code, Design Patterns, and automated testing with Vitest are part of how I deliver — not an afterthought.
 
-**IA aplicada na prática**
-Aplico ativamente desenvolvimento AI-first, pipelines de RAG, MCP (Model Context Protocol), Harness e desenvolvimento orientado a especificação no dia a dia — não apenas na teoria. Atualmente expandindo essa base para C# / .NET.
+**Applied AI**
+I actively apply AI-first development, RAG pipelines, MCP (Model Context Protocol), Harness, and spec-driven development day to day — not just in theory. Currently expanding this foundation into C# / .NET.
 
 ---
 
-### 🛠️ Stack principal
+### 🛠️ Main stack
 
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
@@ -47,17 +47,17 @@ Aplico ativamente desenvolvimento AI-first, pipelines de RAG, MCP (Model Context
 <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;
 ---
 
-### 🤖 IA e práticas modernas de desenvolvimento — aplicadas no dia a dia
+### 🤖 AI and modern development practices — applied daily
 
-![AI First](https://img.shields.io/badge/Desenvolvimento_AI--first-7F77DD?style=for-the-badge&logoColor=white)&nbsp;
-![RAG](https://img.shields.io/badge/Pipelines_de_RAG-1D9E75?style=for-the-badge&logoColor=white)&nbsp;
+![AI First](https://img.shields.io/badge/AI--first_Development-7F77DD?style=for-the-badge&logoColor=white)&nbsp;
+![RAG](https://img.shields.io/badge/RAG_Pipelines-1D9E75?style=for-the-badge&logoColor=white)&nbsp;
 ![MCP](https://img.shields.io/badge/MCP_(Model_Context_Protocol)-0089D6?style=for-the-badge&logoColor=white)&nbsp;
 ![Harness](https://img.shields.io/badge/Harness-00ADE4?style=for-the-badge&logo=harness&logoColor=white)&nbsp;
-![Spec Driven](https://img.shields.io/badge/Desenvolvimento_Spec--driven-BA7517?style=for-the-badge&logoColor=white)&nbsp;
+![Spec Driven](https://img.shields.io/badge/Spec--driven_Development-BA7517?style=for-the-badge&logoColor=white)&nbsp;
 
 ---
 
-### 📈 Expandindo atualmente para
+### 📈 Currently expanding into
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
@@ -65,7 +65,7 @@ Aplico ativamente desenvolvimento AI-first, pipelines de RAG, MCP (Model Context
 
 ---
 
-### 📬 Fale comigo
+### 📬 Get in touch
 
 <p>
   <a href="mailto:renansilvaytb@gmail.com" target="_blank">
@@ -75,7 +75,7 @@ Aplico ativamente desenvolvimento AI-first, pipelines de RAG, MCP (Model Context
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://devrenansilva.netlify.app" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
 
