@@ -12,7 +12,7 @@
 
 | | |
 |---|---|
-| 💼 **Role** | Full Stack Developer @ DB1 Group |
+| 💼 **Role** | Senior Full Stack Developer @ DB1 Group |
 | 🎓 **Education** | Systems Analysis and Development |
 | 🌍 **Location** | Brazil |
 | 🌐 **Portfolio** | [devrenansilva.netlify.app](https://devrenansilva.netlify.app) |
